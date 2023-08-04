@@ -1,0 +1,126 @@
+.parent { 
+  display:flex; 
+  height: 100%;
+}
+.child{ 
+  flex-grow:1;
+  padding: 0.5cm;
+}
+.App {
+  font-family: "Lato", sans-serif;
+  padding: 20px;
+  text-align: center;
+  width: 85%;
+}
+.sidenav{
+
+  width: 15%;
+  text-align: left;
+ 
+}
+body{
+  text-align: center;
+  width: 100%;
+  background: rgb(0, 0, 0);
+}
+h1{
+  text-align: center;
+  color: white;
+}
+h3{
+  color: white;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.pl-20 {
+  padding-left: 20px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  outline: none;
+}
+ul{ color: #dddddd;}
+.button {
+  background-color: #ffffff;
+  border: 1px solid #928282;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #222222;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  padding: 5px 15px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  transition: box-shadow 0.2s, -ms-transform 0.1s, -webkit-transform 0.1s,
+    transform 0.1s;
+  user-select: none;
+  -webkit-user-select: none;
+  width: auto;
+  margin-left: 20px;
+}
+
+.button:focus-visible {
+  box-shadow: #222222 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
+  transition: box-shadow 0.2s;
+}
+
+.button:active {
+  background-color: #f7f7f7;
+  border-color: #000000;
+  transform: scale(0.96);
+}
+
+.button:disabled {
+  border-color: #dddddd;
+  color: #dddddd;
+  cursor: not-allowed;
+  opacity: 1;
+}
+
+.card {
+  margin-top: 2rem;
+  margin-left: -3rem;
+  text-align: center;
+  color:rgb(255, 255, 255);
+  border-radius: 10px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgb(17, 197, 23) 0%, rgb(217, 210, 20) 100%);
+}
+.card h3{color:rgb(14, 21, 29);}
+.audio {
+  cursor: pointer;
+  border-radius: 100px;
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+  margin-left: 34rem;
+}
+
+.audio:hover {
+  background-color: #0f141a;
+  color: white;
+  border: none;
+}
