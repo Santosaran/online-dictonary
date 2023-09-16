@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm run build`
 
-### `npm run eject`
+### `npm run eject` 
 
 ## Step 1: Set up a React project
 Assuming you have Node.js and npm installed, you can create a new React project using Create React App:
