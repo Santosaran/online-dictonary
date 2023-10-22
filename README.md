@@ -1,6 +1,6 @@
 # Getting Started with Create Dictionary App
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
