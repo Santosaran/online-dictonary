@@ -2,7 +2,7 @@ import axios from "axios";
 import { useState } from "react";
 import ListDetails from "./components/ListDetails";
 import "./styles.css";
-import React from "react";
+import React from "react"; 
 
 export default function App() {
   const [keyWord, setKeyWord] = useState("");
