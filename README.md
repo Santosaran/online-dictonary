@@ -38,4 +38,4 @@ Create the necessary components for your dictionary platform:
     
     Word Explaination
     
-   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392540-7e951a3b-e36c-4405-b4d1-725537d73567.png">
+   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392540-7e951a3b-e36c-4405-b4d1-725537d73567.png"> 
