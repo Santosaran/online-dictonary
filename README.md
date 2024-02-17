@@ -13,7 +13,7 @@ In the project directory, you can run:
 ### `npm run eject`
 
 ## Step 1: Set up a React project
-Assuming you have Node.js and npm installed, you can create a new React project using Create React App:
+Assuming you have Node.js and npm installed, you can create a new React project using Create React App: 
     
     npx create-react-app dictionary-platform
 ## Step 2: Create API keys
