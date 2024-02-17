@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm test`
 
-### `npm run build` 
+### `npm run build`
 
 ### `npm run eject`
 
